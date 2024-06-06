@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Parcial2_Informes", "Parcial2_Informes\Parcial2_Informes.rptproj", "{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.Debug|Default.ActiveCfg = Debug
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.Debug|Default.Build.0 = Debug
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.Debug|Default.Deploy.0 = Debug
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.DebugLocal|Default.Build.0 = DebugLocal
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.Release|Default.ActiveCfg = Release
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.Release|Default.Build.0 = Release
+		{CD4D27C9-20C1-4849-8CB8-8E257F4B1469}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9072746F-8F5E-4D29-BD37-7476C174EB42}
+	EndGlobalSection
+EndGlobal
